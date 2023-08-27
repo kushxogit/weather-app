@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-image: "bg" url(./components/Assets/blob-scene-haikei.png);
 }
 
 .App-logo {
